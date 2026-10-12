@@ -1,4 +1,8 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Deepak+Kumar+Pandit!+%F0%9F%91%8B;Software+Engineer;Full-Stack+Developer;React+Developer" alt="Typing SVG" /> </h1> <p align="center"> <a href="https://github.com/deep4270"> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://linkedin.com/in/deepkumar4270"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://leetcode.com/u/deepak4270/"> <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"> </a> <a href="mailto:deepakkumar4270@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=deep4270&label=Profile%20Views&color=38B2AC&style=flat-square" alt="Profile Views" /> </p>
+<p align="center">
+  <img src="./assets/open-to-work.svg" alt="Deepak Kumar Pandit — open to work" width="100%" />
+</p>
+
 🚀 Quick Overview
 
 💻 Role: Software Engineer | Full-Stack Developer | React Developer
@@ -15,7 +19,7 @@
 
 📂 Projects: github.com/deep4270
 
-📫 Reach Me: deepakkumar4270@gmail.com
+📫 Reach Me: deepkumar4270@gmail.com
 
 💻 Tech Stack
 🧠 Languages
